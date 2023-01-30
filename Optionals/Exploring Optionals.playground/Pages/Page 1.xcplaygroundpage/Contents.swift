@@ -38,8 +38,8 @@ print(myName)
  
  */
 // Type the second code example below...
-
-
+var yourName: String?
+print(yourName)
 /*:
  
  Run the playground again.
